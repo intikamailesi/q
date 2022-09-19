@@ -1,0 +1,1 @@
+Message = '''Telegram hizmetlerinin en üst mertebesi için @HasanSencere yazınız...'''
